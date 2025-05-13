@@ -27,5 +27,5 @@
 - **git branch** _name_: Create a new branch
 - **git checkout branchName** : Switch between branches
 - **git clone _repo-link_** : Clone repository to your local
-- **git rebase** : To mearge commits by pick and squash
--
+- **git rebase** : To merge commits by pick and squash
+
